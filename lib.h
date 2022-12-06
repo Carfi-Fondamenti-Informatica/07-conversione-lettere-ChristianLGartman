@@ -1,1 +1,2 @@
 
+bool riconoscere(char);
